@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/mylibs.iml" filepath="$PROJECT_DIR$/mylibs.iml" />
       <module fileurl="file://$PROJECT_DIR$/recyclerViewlib/recyclerViewlib.iml" filepath="$PROJECT_DIR$/recyclerViewlib/recyclerViewlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/utillib/utillib.iml" filepath="$PROJECT_DIR$/utillib/utillib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxing/zxing.iml" filepath="$PROJECT_DIR$/zxing/zxing.iml" />
     </modules>
   </component>
 </project>
