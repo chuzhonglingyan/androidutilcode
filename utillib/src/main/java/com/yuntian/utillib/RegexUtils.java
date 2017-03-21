@@ -5,17 +5,18 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import static com.yutian.common.util.ConstUtils.REGEX_DATE;
-import static com.yutian.common.util.ConstUtils.REGEX_EMAIL;
-import static com.yutian.common.util.ConstUtils.REGEX_ID_CARD15;
-import static com.yutian.common.util.ConstUtils.REGEX_ID_CARD18;
-import static com.yutian.common.util.ConstUtils.REGEX_IP;
-import static com.yutian.common.util.ConstUtils.REGEX_MOBILE_EXACT;
-import static com.yutian.common.util.ConstUtils.REGEX_MOBILE_SIMPLE;
-import static com.yutian.common.util.ConstUtils.REGEX_TEL;
-import static com.yutian.common.util.ConstUtils.REGEX_URL;
-import static com.yutian.common.util.ConstUtils.REGEX_USERNAME;
-import static com.yutian.common.util.ConstUtils.REGEX_ZH;
+import static com.yuntian.utillib.ConstUtils.REGEX_DATE;
+import static com.yuntian.utillib.ConstUtils.REGEX_EMAIL;
+import static com.yuntian.utillib.ConstUtils.REGEX_ID_CARD15;
+import static com.yuntian.utillib.ConstUtils.REGEX_ID_CARD18;
+import static com.yuntian.utillib.ConstUtils.REGEX_IP;
+import static com.yuntian.utillib.ConstUtils.REGEX_MOBILE_EXACT;
+import static com.yuntian.utillib.ConstUtils.REGEX_MOBILE_SIMPLE;
+import static com.yuntian.utillib.ConstUtils.REGEX_TEL;
+import static com.yuntian.utillib.ConstUtils.REGEX_URL;
+import static com.yuntian.utillib.ConstUtils.REGEX_USERNAME;
+import static com.yuntian.utillib.ConstUtils.REGEX_ZH;
+
 
 /**
  * <pre>
