@@ -9,7 +9,6 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/baselibs" />
             <option value="$PROJECT_DIR$/recyclerViewlib" />
             <option value="$PROJECT_DIR$/utillib" />
             <option value="$PROJECT_DIR$/zxing" />
