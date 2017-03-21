@@ -39,7 +39,6 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.alibaba.android.arouter.facade.annotation.Route;
 import com.google.zxing.Result;
 import com.zxing.R;
 import com.zxing.camera.CameraManager;
@@ -51,7 +50,6 @@ import com.zxing.utils.InactivityTimer;
 import java.io.IOException;
 import java.lang.reflect.Field;
 
-import static com.zxing.utils.ZxConstants.ZXING_CAPTURE;
 import static com.zxing.utils.ZxConstants.ZX_RESTART_PREVIEW;
 
 /**
