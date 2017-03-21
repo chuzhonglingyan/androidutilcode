@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/baselibs/baselibs.iml" filepath="$PROJECT_DIR$/baselibs/baselibs.iml" />
       <module fileurl="file://$PROJECT_DIR$/mylibs.iml" filepath="$PROJECT_DIR$/mylibs.iml" />
       <module fileurl="file://$PROJECT_DIR$/recyclerViewlib/recyclerViewlib.iml" filepath="$PROJECT_DIR$/recyclerViewlib/recyclerViewlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utillib/utillib.iml" filepath="$PROJECT_DIR$/utillib/utillib.iml" />
     </modules>
   </component>
 </project>

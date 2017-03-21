@@ -1,7 +1,7 @@
 ext {
     android = [
             compileSdkVersion: 25,
-            buildToolsVersion: "25.0.1",
+            buildToolsVersion: "25.0.2",
             applicationId    : "com.yuntian.mylibs",
             minSdkVersion    : 15,
             targetSdkVersion : 22,
@@ -10,7 +10,7 @@ ext {
             JavaVersion      : JavaVersion.VERSION_1_8
     ]
 
-    supportLibVersion = '25.0.1'
+    supportLibVersion = '25.1.1'
 
     dependencies = [
             "multidex"           : "com.android.support:multidex:1.+",
