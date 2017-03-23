@@ -1,1 +1,1 @@
-include ':app', ':recyclerViewlib', ':utillib', ':zxing'
+include ':app', ':recyclerViewlib'
