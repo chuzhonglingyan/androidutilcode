@@ -3,8 +3,8 @@ apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 
 version = "1.0.0"    //这个是版本号，必须填写
-def siteUrl = 'https://github.com/h3clikejava/ExtendImageView'      // 项目的主页
-def gitUrl = 'https://github.com/h3clikejava/ExtendImageView.git'   // Git仓库的url
+def siteUrl = 'https://github.com/chuzhonglinyan/mylibs'      // 项目的主页
+def gitUrl = 'https://github.com/chuzhonglinyan/mylibs.git'   // Git仓库的url
 group = "com.yuntian.utilcode"         // Maven Group ID for the artifact，一般填你唯一的包名
 install {
     repositories.mavenInstaller {
