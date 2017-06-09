@@ -2,6 +2,11 @@
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 
+android{
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+}
+
 version = "1.0.0"    //这个是版本号，必须填写
 def siteUrl = 'https://github.com/chuzhonglinyan/mylibs'      // 项目的主页
 def gitUrl = 'https://github.com/chuzhonglinyan/mylibs.git'   // Git仓库的url
